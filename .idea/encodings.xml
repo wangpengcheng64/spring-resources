@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/aop/LogAspects.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/bean/Boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/bean/ColorFactoryBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/bean/Dog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/bean/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/condition/LinuxCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/condition/MyImportBeanDefinitionRegistrar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/condition/MyImportSelector.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/condition/WindowsCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/config/MainConfig2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/config/MainConfigOfAOP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/config/MainConfigOfLifeCycle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/config/MainConfigOfProfile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/config/MainConfigOfPropertyValues.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/config/MainConifgOfAutowired.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/dao/BookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/ext/ExtConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/ext/MyApplicationListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/ext/MyBeanDefinitionRegistryPostProcessor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/ext/MyBeanFactoryPostProcessor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/ext/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/tx/TxConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wpc/tx/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SpringSource.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/IOCTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/IOCTest_AOP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/IOCTest_Autowired.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/IOCTest_Ext.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/IOCTest_LifeCycle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/IOCTest_Profile.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
